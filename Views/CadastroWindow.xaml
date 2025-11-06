@@ -1,0 +1,58 @@
+﻿<Window x:Class="HotelAdminWpf8.Views.CadastroWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cadastro de Cliente"
+        Background="#1E1E2F"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized">
+    <!-- 🔹 deixa a janela em tela cheia -->
+
+    <Grid Margin="30">
+        <Border Background="#2A2A3C" CornerRadius="15" Padding="40" HorizontalAlignment="Center" VerticalAlignment="Center" Width="450">
+            <StackPanel>
+                <TextBlock Text="Cadastro de Cliente" 
+                           Foreground="White" FontSize="28" 
+                           FontWeight="Bold" Margin="0,0,0,30" 
+                           HorizontalAlignment="Center"/>
+
+                <!-- Campo Nome -->
+                <TextBlock Text="Nome completo:" Foreground="White" Margin="0,5,0,0"/>
+                <TextBox x:Name="txtNome" Height="35" 
+                         Background="#3C3C50" Foreground="White"
+                         BorderBrush="Transparent" Padding="10"/>
+
+                <!-- Campo Email -->
+                <TextBlock Text="E-mail:" Foreground="White" Margin="0,10,0,0"/>
+                <TextBox x:Name="txtEmail" Height="35" 
+                         Background="#3C3C50" Foreground="White"
+                         BorderBrush="Transparent" Padding="10"/>
+
+                <!-- Campo CPF -->
+                <TextBlock Text="CPF:" Foreground="White" Margin="0,10,0,0"/>
+                <TextBox x:Name="txtCPF" Height="35" 
+                         Background="#3C3C50" Foreground="White"
+                         BorderBrush="Transparent" Padding="10"/>
+
+                <!-- Campo Senha -->
+                <TextBlock Text="Senha:" Foreground="White" Margin="0,10,0,0"/>
+                <PasswordBox x:Name="txtSenha" Height="35" 
+                             Background="#3C3C50" Foreground="White"
+                             BorderBrush="Transparent" Padding="10"/>
+
+                <!-- Botão Cadastrar -->
+                <Button Content="Cadastrar" Height="45" 
+                        Background="#4CAF50" Foreground="White" 
+                        FontWeight="Bold" BorderBrush="Transparent" 
+                        Margin="0,25,0,0" Click="BtnCadastrar_Click"
+                        Cursor="Hand"/>
+
+                <!-- Botão Voltar -->
+                <Button Content="Voltar para o Login" Height="40"
+                        Background="#FF4444" Foreground="White" 
+                        BorderBrush="Transparent" Margin="0,10,0,0"
+                        FontWeight="Bold" Click="BtnVoltar_Click"
+                        Cursor="Hand"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

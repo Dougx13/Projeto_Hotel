@@ -1,0 +1,93 @@
+<Window x:Class="HotelAdminWpf8.Views.ClienteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Área do Cliente" Height="520" Width="820"
+        Background="#1E1E2F" WindowStartupLocation="CenterScreen"
+        WindowStyle="None">
+
+    <Grid >
+
+        <!-- Cabeçalho -->
+        <DockPanel>
+
+            <TextBlock Text="Área do Cliente"
+                       Foreground="White"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       DockPanel.Dock="Left"/>
+
+
+        </DockPanel>
+
+        <!-- Conteúdo principal -->
+        <Border Background="#2C2C3C" CornerRadius="10" Padding="20">
+            <StackPanel>
+
+                <!-- Nome -->
+                <TextBlock x:Name="txtNome"
+                           Text="Olá, Cliente!"
+                           Foreground="White"
+                           FontSize="20"
+                           FontWeight="Bold"
+                           Margin="0,0,0,20"/>
+                
+                <Button x:Name="btnSair"
+                         Content="Sair"
+                         Width="80" Height="32"
+                         Background="#FF4444"
+                         Foreground="White"
+                         Cursor="Hand"
+                         FontWeight="Bold"
+                         Click="btnSair_Click"
+                         HorizontalAlignment="Right"
+                         />
+
+                <!-- Botão Fazer Reserva -->
+                <Button Name="btnFazerReserva"
+                        Content="Fazer Reserva"
+                        Width="160" Height="38"
+                        Background="#4A90E2"
+                        Foreground="White"
+                        BorderBrush="Transparent"
+                        Cursor="Hand"
+                        FontWeight="Bold"
+                        HorizontalAlignment="Left"
+                        Margin="0,0,0,20"
+                        Click="btnFazerReserva_Click"/>
+
+                <!-- Título da lista -->
+                <TextBlock Text="Suas Reservas:"
+                           Foreground="White"
+                           FontSize="16"
+                           Margin="0,0,0,10"/>
+
+                <!-- DataGrid -->
+                <Border Background="#1E1E2F" CornerRadius="8" BorderBrush="#444" BorderThickness="1">
+                    <DataGrid x:Name="dgReservas"
+                              AutoGenerateColumns="False"
+                              Background="#1E1E2F"
+                              Foreground="White"
+                              AlternatingRowBackground="#2E2E3E"
+                              RowBackground="#1E1E2F"
+                              IsReadOnly="True"
+                              Height="350"
+                              Margin="2">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Quarto" Binding="{Binding Quarto.Numero}" Width="100"/>
+                            <DataGridTextColumn Header="Tipo" Binding="{Binding Quarto.TipoQuarto.Nome}" Width="150"/>
+                            <DataGridTextColumn Header="Entrada" Binding="{Binding DataEntrada, StringFormat=dd/MM/yyyy}" Width="120"/>
+                            <DataGridTextColumn Header="Saída" Binding="{Binding DataSaida, StringFormat=dd/MM/yyyy}" Width="120"/>
+                            <DataGridTextColumn Header="Valor (R$)" Binding="{Binding Valor, StringFormat=C}" Width="120"/>
+                            <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="120"/>
+                        </DataGrid.Columns>
+
+
+                    </DataGrid>
+                </Border>
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

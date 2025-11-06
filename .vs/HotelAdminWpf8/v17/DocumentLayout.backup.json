@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\quartowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\quartowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\quartowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\quartowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\clientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\clientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\reservaclientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\reservaclientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\clientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\clientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\checkinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\checkinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\cadastrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\cadastrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\reservaclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\reservaclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\checkinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\checkinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\tipoquarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\tipoquarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\cadastrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\cadastrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|c:\\users\\douglas\\downloads\\hoteladminwpf8_modified_full\\hoteladminwpf8\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270DBA8-1EDA-458B-A50D-7091A7BFB7CB}|HotelAdminWpf8.csproj|solutionrelative:models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T21:26:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Quarto.cs",
+              "RelativeDocumentMoniker": "Models\\Quarto.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Quarto.cs",
+              "RelativeToolTip": "Models\\Quarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:22:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\AdminWindow.xaml.cs*",
+              "RelativeToolTip": "Views\\AdminWindow.xaml.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:06:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuartoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\QuartoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\QuartoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\QuartoWindow.xaml.cs",
+              "RelativeToolTip": "Views\\QuartoWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:27:06.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuartoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\QuartoWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\QuartoWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\QuartoWindow.xaml",
+              "RelativeToolTip": "Views\\QuartoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T21:26:42.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservaClienteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ReservaClienteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReservaClienteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ReservaClienteWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ReservaClienteWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:21:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:12:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAvwJMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-05T21:54:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ClienteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ClienteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ClienteWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ClienteWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:54:34.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ClienteWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ClienteWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ClienteWindow.xaml",
+              "RelativeToolTip": "Views\\ClienteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T21:26:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CheckInWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\CheckInWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CheckInWindow.xaml",
+              "RelativeToolTip": "Views\\CheckInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T17:17:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CadastroWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\CadastroWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CadastroWindow.xaml",
+              "RelativeToolTip": "Views\\CadastroWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T21:26:30.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservaClienteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ReservaClienteWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ReservaClienteWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\ReservaClienteWindow.xaml",
+              "RelativeToolTip": "Views\\ReservaClienteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T04:20:54.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T21:10:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoQuarto.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\TipoQuarto.cs",
+              "RelativeDocumentMoniker": "Models\\TipoQuarto.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\TipoQuarto.cs",
+              "RelativeToolTip": "Models\\TipoQuarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:21:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:53:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CheckInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CheckInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CheckInWindow.xaml.cs",
+              "RelativeToolTip": "Views\\CheckInWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:06:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CadastroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CadastroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\CadastroWindow.xaml.cs",
+              "RelativeToolTip": "Views\\CadastroWindow.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:32:22.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:11:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T21:12:20.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:32:58.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:22:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Data\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Data\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Data\\HotelContext.cs",
+              "RelativeToolTip": "Data\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:22:18.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:22:10.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Downloads\\HotelAdminWpf8_modified_full\\HotelAdminWpf8\\Models\\Pagamento.cs",
+              "RelativeToolTip": "Models\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:22:06.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

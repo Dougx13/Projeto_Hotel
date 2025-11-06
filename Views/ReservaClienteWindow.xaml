@@ -1,0 +1,17 @@
+<Window x:Class="HotelAdminWpf8.Views.ReservaClienteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Reserva de Quarto" Height="450" Width="800" Background="#2C2C3C" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Faça sua Reserva" Foreground="White" FontSize="24" Margin="0,0,0,20"/>
+            <TextBlock Text="Selecione um Quarto:" Foreground="White"/>
+            <ComboBox x:Name="cbQuartos" Height="30" Margin="0,5,0,15" DisplayMemberPath="Numero"/>
+            <TextBlock Text="Data de Entrada:" Foreground="White"/>
+            <DatePicker x:Name="dpEntrada" Margin="0,5,0,15"/>
+            <TextBlock Text="Data de Saída:" Foreground="White"/>
+            <DatePicker x:Name="dpSaida" Margin="0,5,0,25"/>
+            <Button x:Name="btnReservar" Content="Reservar" Width="140" Height="38" Background="#3A7AFE" Foreground="White" Click="btnReservar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
